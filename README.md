@@ -1,2 +1,2 @@
 # LogGen
-A simple changelog genorator
+A simple changelog generator
